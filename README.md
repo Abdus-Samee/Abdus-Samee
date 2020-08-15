@@ -24,4 +24,4 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visits
-- portolfio: https://badges.pufler.dev/visits/Abdus-Samee/portfolio
+- portolfio: [![Visits Badge](https://badges.pufler.dev/visits/ABdus-Samee/git-badges)](https://badges.pufler.dev)
