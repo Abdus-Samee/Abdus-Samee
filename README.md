@@ -14,11 +14,12 @@
      - Website: abdus-samee.github.io/portfolio
       
 ## Repositories
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Moodle-Project)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=TeamPainter)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=JavaFX-Moodle-Project&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=pronounce&theme=dark)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Samee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
