@@ -1,8 +1,4 @@
-<img height="300" width="600" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80">
-<div>
-     <h2>Hey! It's Abdus Samee</h2>
-</div>
-
+## Hey there! It's Samee...
 
 - 🔭 I’m currently working on developing backend websites
 - 🌱 I’m currently learning C++, Java and NodeJS
@@ -26,3 +22,6 @@
 
 ## Profile Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Visits
+[![Visits Badge](https://badges.pufler.dev/visits/Abdus-Samee/git-badges)](https://badges.pufler.dev)
