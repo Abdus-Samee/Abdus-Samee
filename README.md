@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey there! It's Samee...
 
-<!--
-**Abdus-Samee/Abdus-Samee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img height="300" width="300" src="https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1189&q=80">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on developing backend websites
+- 🌱 I’m currently learning C++, Java and NodeJS
+- 👯 I’m looking to collaborate on any projects regarding full-stack web development
+- 🤔 I’m looking for help with algorithms & anroid and flutter app development
+- 💬 Ask me about 
+- 📫 How to reach me: 
+            - Email: abdussamee16@gmail.com
+            - Website: abdus-samee.github.io/portfolio
+      
+## Repositories
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio)
+
+## Profile Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abdus-Samee)
