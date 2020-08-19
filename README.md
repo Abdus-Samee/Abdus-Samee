@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C++, Java and NodeJS
 - 👯 I’m looking to collaborate on any projects regarding full-stack web development
 - 🤔 I’m looking for help with algorithms & anroid and flutter app development
-- 💬 Ask me about 
+- 💬 Ask me about my projects
 - 📫 How to reach me: 
      - Email: abdussamee16@gmail.com
      - Website: https://abdus-samee.github.io/portfolio
