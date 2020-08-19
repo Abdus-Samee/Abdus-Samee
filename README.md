@@ -7,7 +7,7 @@
 - 💬 Ask me about 
 - 📫 How to reach me: 
      - Email: abdussamee16@gmail.com
-     - Website: abdus-samee.github.io/portfolio
+     - Website: https://abdus-samee.github.io/portfolio
       
 ## Repositories
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark)
