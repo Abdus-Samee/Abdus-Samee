@@ -1,6 +1,6 @@
 ## Hey there! It's Samee...
 
-- 🔭 I’m currently working on developing backend websites
+- 🔭 I’m currently working on developing backend websites and learning making interactive flutter applications
 - 🌱 I’m currently learning C++, Java and NodeJS
 - 👯 I’m looking to collaborate on any projects regarding full-stack web development
 - 🤔 I’m looking for help with algorithms & anroid and flutter app development
