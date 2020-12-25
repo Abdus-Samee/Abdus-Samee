@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on developing backend websites and learning making interactive flutter applications
 - 🌱 I’m currently learning C++, Java and NodeJS
-- 👯 I’m looking to collaborate on any projects regarding full-stack web development
-- 🤔 I’m looking for help with algorithms & anroid and flutter app development
+- 👯 I’m looking to collaborate on any projects regarding full-stack web development pertaining to NodeJS and Laravel. Always eager to learn.
+- 🤔 I’m looking for help with algorithms & flutter app development
 - 💬 Ask me about my projects
 - 📫 How to reach me: 
      - Email: abdussamee16@gmail.com
