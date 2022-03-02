@@ -11,11 +11,11 @@
       
 ## Repositories
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=portfolio&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Wisey&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Chothahub&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=ScreenShare&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=Laravel-Car-Warehouse&theme=dark)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=DX-Ball-Game&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=pronounce&theme=dark)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Abdus-Samee&repo=CSE-216-Crunchyroll&theme=dark)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdus-Samee&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
