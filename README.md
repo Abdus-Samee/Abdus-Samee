@@ -1,9 +1,8 @@
-## Hey there! It's Samee...
+## Howdy! It's Samee...
 
-- 🔭 I’m interested in developing backend websites and learning making interactive flutter/React Native applications
-- 🌱 I’m know C++, Java, Laravel, ReactJS, and NodeJS
-- 👯 I’m looking to collaborate on any projects regarding full-stack web development pertaining to NodeJS and Laravel. Always eager to learn.
-- 💬 Ask me about my projects
+- 🔭 I’m interested in developing websites and learning making interactive flutter/React Native applications
+- 🌱 I know C++, Java, Laravel, ReactJS, and NodeJS
+- 👨‍💻 Working on structured documents
 - 📫 How to reach me: 
      - Email: abdussamee16@gmail.com
      - Website: https://abdus-samee.github.io
